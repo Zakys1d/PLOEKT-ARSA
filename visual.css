@@ -1,0 +1,23 @@
+header img {
+	height: 100px;
+	width: 175px;
+
+}
+
+header {
+	background-color: red;
+}
+
+.header {
+	display: flex;
+
+}
+
+.header nav {
+	margin-top: 40px;
+}
+
+nav a {
+	text-decoration: none;
+	margin: 20px;
+}
